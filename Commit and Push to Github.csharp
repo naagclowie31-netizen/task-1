@@ -1,0 +1,3 @@
+git add .
+git commit -m "Working console app prints Kamusta Mundo!"
+git push origin main
